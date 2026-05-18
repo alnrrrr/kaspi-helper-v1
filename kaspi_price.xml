@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kaspi_catalog date="2026-05-17 03:07" xmlns="http://kaspi.kz/kaspicatalog/2.0">
+  <company>Comp Master</company>
+  <merchantid>ТВОЙ_ID_ИЗ_КАБИНЕТА_КАСПИ</merchantid>
+  <offers>
+    <offer sku="103421555">
+      <model>Pixel i5-10400F RTX 3060</model>
+      <brand>Pixel</brand>
+      <price>309501</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" stockCount="5" />
+      </availabilities>
+    </offer>
+  </offers>
+</kaspi_catalog>
