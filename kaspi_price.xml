@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog date="2026-05-20 14:04" xmlns="http://kaspi.kz/kaspicatalog/2.0">
+<kaspi_catalog date="2026-05-21 20:52" xmlns="http://kaspi.kz/kaspicatalog/2.0">
   <company>Comp Master</company>
   <merchantid />
   <offers>
-    <offer sku="103421555">
-      <model>Pixel i5-10400F RTX 3060</model>
-      <brand>Pixel</brand>
-      <price>239998</price>
+    <offer sku="139651587">
+      <model>EATEQ Business 1 черный</model>
+      <brand>EATEQ</brand>
+      <price>92497</price>
       <availabilities>
         <availability storeId="PP1" available="yes" stockCount="5" />
       </availabilities>
